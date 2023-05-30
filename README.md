@@ -18,4 +18,5 @@ La idea de este repositorio es tener el código generado por copilot así como l
 - Copilot
 - Codespace 
 
-
+## Pasos adicionales
+1. Despues de tener el repositorio crear dentro de backend la carpeta files esto para ambientes de desarrollo.
