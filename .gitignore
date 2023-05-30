@@ -2,7 +2,6 @@ front/node_modules/*
 .DS_Store
 backend/files/*.pdf
 backend/files/*.mp3
-backend/files/*.txt
 
 
 
